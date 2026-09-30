@@ -16,3 +16,8 @@ Aku sedang belajar GitHub.
 ## Catatan
 
 Ini cuma latihan, jadi bebas.
+
+## Akhiran
+
+Jadi... kayak nya cuma itu aja deh,
+**Goodbye!**
