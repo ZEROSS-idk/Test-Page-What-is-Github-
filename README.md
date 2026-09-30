@@ -4,7 +4,7 @@ Halo! Ini repo latihan pertamaku di GitHub.
 
 ## Tentang
 
-Aku sedang belajar GitHub untuk proyek worldbuilding **EYE**.
+Aku sedang belajar GitHub.
 
 ## Yang Mau Kupelajari
 
